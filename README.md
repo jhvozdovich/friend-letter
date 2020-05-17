@@ -6,7 +6,7 @@
 
 ## Description
 
-_A project to introduce the C# language and the .NET Core framework with ASP.NET CORE MVC and MSBuild. This lesson serves as a reference for configuring, building, and launching web applications in C#_
+_A project to introduce the C# language and the .NET Core framework with ASP.NET CORE MVC and MSBuild. This lesson serves as a reference for configuring, building, and launching web applications in C#. Dynamic sites using forms and views are also explored._
 
 ## Setup/Installation Requirements
 
@@ -35,7 +35,8 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 ### Specs
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
-| **Displays static webpage** | User Input:”na” | Output: "na" |
+| **From /form path user inputs Sender** | User Input:”Sender: Jessica” | Output: "Love, Jessica" |
+| **From /form path user inputs Recipient** | User Input:”Recipient: Lauren” | Output: "Greetings Lauren!" |
 
 
 ### License
