@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Create a custom postcard</title>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  </head>
+  <body>
+    <h1>Fill out the sender's name and recipient's name to make a custom postcard!</h1>
+    <form action="/postcard" method="post">
+      <label for="sender">Sender's name:</label>
+      <input id="sender" name="sender" type="text">
+      <label for="recipient">Recipient's Name:</label>
+      <input id="recipient" name="recipient" type="text">
+      <button type="submit">POST THAT CARD</button>
+    </form>
+  </body>
+</html>
