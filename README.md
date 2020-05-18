@@ -3,6 +3,7 @@
 #### _Epicodus Project May 17, 2020_
 
 #### By _**Jessica Hvozdovich**_
+#### Version 2 Contributions By _**Nitun Datta**_
 
 ## Description
 
@@ -35,11 +36,13 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 ### Specs
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
-| **From /form path user inputs Sender** | User Input:”Sender: Jessica” | Output: "Love, Jessica" |
-| **From /form path user inputs Recipient** | User Input:”Recipient: Lauren” | Output: "Greetings Lauren!" |
+| **Form allows user to input Sender** | User Input:”Sender: Jessica” | Output: "Love, Jessica" |
+| **Form allows user to input Recipient** | User Input:”Recipient: Lauren” | Output: "Greetings Lauren!" |
+| **Form allows user to input Location** | User Input:”Location: Iceland” | Output: "I'm in Iceland!" |
+| **Form allows user to input Souvenir** | User Input:”Souvenir: Candy” | Output: "I'm going to bring you back a lot of candy!" |
 
 
 ### License
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich_**
+Copyright (c) 2020 **_Jessica Hvozdovich and Nitun Datta_**
